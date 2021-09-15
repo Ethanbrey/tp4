@@ -1,10 +1,12 @@
 h1 {
   font-family: Arial;
-  color: blue;
+  color: darkred;
 }
 
 h4 {
   margin-bottom: 0;
+  color: red;
+  background-color: lightgray;
 }
 
 ul, ol {
